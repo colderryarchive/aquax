@@ -1,0 +1,31 @@
+{
+  "name": "aquax",
+  "version": "0.0.4",
+  "description": "A package that you can say a wrapper of other APIs and including other useful functions that helps you especially with your discord bot codes.",
+  "main": "aquax.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "coldz": "^0.1.1",
+    "superagent": "^6.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Colderry/aquax.git"
+  },
+  "keywords": [
+    "aquax",
+    "wrapper",
+    "utility",
+    "api"
+  ],
+  "author": "Colderry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Colderry/aquax/issues"
+  },
+  "homepage": "https://github.com/Colderry/aquax#readme"
+}
